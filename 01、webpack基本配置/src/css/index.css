@@ -1,0 +1,25 @@
+
+
+#box1{
+  width: 300px;
+  height: 300px;
+  border: 1px solid red;
+  margin-bottom: 100px;
+  background: url('../img/angular.jpg') center
+}
+
+#box2{
+  width: 300px;
+  height: 300px;
+  border: 1px solid red;
+  margin-bottom: 100px;
+  background: url('../img/vue.jpg') center
+}
+
+#box3{
+  width: 300px;
+  height: 300px;
+  border: 1px solid red;
+  margin-bottom: 100px;
+  background: url('../img/react.png') center
+}
